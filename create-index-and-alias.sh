@@ -7,7 +7,7 @@ for i in $container; do sleep 30s
 done
 
 #echo $container
-root@adflex-dev-04:~/tuyendd/scripts# cat create-index-and-alias.sh
+root@Node1:~/caolv/scripts# cat create-index-and-alias.sh
 #!/bin/bash
 
 
